@@ -6,5 +6,5 @@ A terminal Hangman game I built with Python.
 - Hint option
 - Score history saved in file
 
-## How to run 
+## How To Run 
 python hangman_deluxe.py
